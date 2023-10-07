@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ddea83c-2a1e-421d-88c1-9ee83445a2c6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="9ddea83c-2a1e-421d-88c1-9ee83445a2c6" name="Changes" comment="first draft">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/between.iml" beforeDir="false" afterPath="$PROJECT_DIR$/between.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Kata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kata.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/SolutionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/SolutionTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,8 +103,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696275802691</updated>
-      <workItem from="1696275803747" duration="874000" />
+      <workItem from="1696275803747" duration="2211000" />
     </task>
+    <task id="LOCAL-00001" summary="first draft">
+      <option name="closed" value="true" />
+      <created>1696276706617</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696276706617</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +121,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="first draft" />
+    <option name="LAST_COMMIT_MESSAGE" value="first draft" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
